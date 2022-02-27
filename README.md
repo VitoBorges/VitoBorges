@@ -4,12 +4,12 @@
 - 🔭 Hoje trabalho com meus projetos pessoais em busca de recolocação no mercado
 - 🌱 Estudando .NET
 
-##
-
 <div align="center">
 <a href="https://www.linkedin.com/in/borges-vitor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:vitorab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/VitoBorges">
